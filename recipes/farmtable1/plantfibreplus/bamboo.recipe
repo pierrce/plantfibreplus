@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "bamboo", "count" : 1 }
+  ],
+  "output" : { "item" : "plantfibre", "count" : 2 },
+  "groups" : [ "craftingfarm", "plantfibreplus" ]
+}

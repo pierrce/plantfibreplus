@@ -1,0 +1,10 @@
+{
+  "author" : "Pierrce",
+  "description" : "PlantFibre+ adds various crafting recipes to the foraging table and agriculture table to increase the ways to get plant fibre! Useful for anyone that has plant based blocks or furniture and doesn't know what to do with it!\n\nRecipes can be found on the new 4th tab within the foraging or agriculture tables. Helps to show only craftable recipes since there are a lot of recipes that look the same.\n\nI'm sure I missed objects and blocks that should also be craftable into plant fibre. If you find or think of an object or block that you want to see added to this mod, please just list the name of the block or object in the comments and I'll add it as soon as I can!",
+  "friendlyName" : "PlantFibre+",
+  "link" : "steam://url/CommunityFilePage/1279444446",
+  "name" : "PlantFibre+",
+  "steamContentId" : "1279444446",
+  "tags" : "Food and Farming",
+  "version" : "1.0.0"
+}

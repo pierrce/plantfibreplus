@@ -1,0 +1,8 @@
+{
+  "author" : "Pierrce",
+  "description" : "More ways to get plant fibre!",
+  "friendlyName" : "PlantFibre+",
+  "link" : "github.com/pierrce",
+  "name" : "PlantFibre+",
+  "version" : "1.0.0"
+}

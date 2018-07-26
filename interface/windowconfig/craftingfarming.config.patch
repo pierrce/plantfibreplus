@@ -1,0 +1,36 @@
+[
+  {
+	"op" : "add",
+	"path" : "/paneLayout/categories/buttons/3",
+	"value" : 
+	{
+      "baseImage" : "/interface/crafting/unselectedTab.png",
+      "baseImageChecked" : "/interface/crafting/selectedTab.png",
+	  "position" : [99, 221],
+      "data" : {
+        "filter" : [ "plantfibreplus" ]}
+	}
+  },
+  {
+	"op" : "add",
+	"path" : "/paneLayout/lblFibreTab",
+	"value" : 
+	{
+	  "type" : "image",
+	  "file" : "/interface/crafting/tabicon_fibre.png",
+	  "position" : [106, 223],
+	  "zlevel" : 3
+	}
+  },
+  {
+	"op" : "replace",
+	"path" : "/paneLayout/background",
+	"value" : 
+	{
+	  "type" : "background",
+      "fileHeader" : "/interface/crafting/craftingheader.png",
+      "fileBody" : "/interface/crafting/farmbody2.png",
+      "fileFooter" : "/interface/crafting/craftingfooter.png"
+	}
+  }
+]

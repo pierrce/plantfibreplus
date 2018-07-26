@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "huntingplatformleaves", "count" : 1 }
+  ],
+  "output" : { "item" : "plantfibre", "count" : 5 },
+  "groups" : [ "craftingfarm", "plantfibreplus" ]
+}
